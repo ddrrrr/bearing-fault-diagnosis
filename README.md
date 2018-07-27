@@ -13,6 +13,5 @@ bearing code | K001 | K002 | KI01 | KI02 | KI03 | KA01 | KA02 | KA03<br>
 fault place  |  --- |  --- | inner| inner| inner| outer| outer| outer<br>
 methods      |  --- |  --- |EMD|drilling|natural|EMD|drilling|natural<br>
 
-![EMD](https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/EMD.jpg)
-## Project 1. domain adaption with adversarial training
-The whole network is devided into 3 parts: feature extractor, domain predictor and classifier.
+![EMD](https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/emd.jpg)
+## Project 1. domain adaption with advers
