@@ -13,5 +13,5 @@ bearing code | K001 | K002 | KI01 | KI02 | KI03 | KA01 | KA02 | KA03<br>
 fault place  |  --- |  --- | inner| inner| inner| outer| outer| outer<br>
 methods      |  --- |  --- |EMD|drilling|natural|EMD|drilling|natural<br>
 
-![EMD](https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/emd.jpg)
+<img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/emd.jpg" width="150" height="150" alt="EMD"/>
 ## Project 1. domain adaption with advers
