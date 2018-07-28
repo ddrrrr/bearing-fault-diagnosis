@@ -9,9 +9,9 @@ CWRU:http://csegroups.case.edu/bearingdatacenter/home<br>
 GERMAN:https://mb.uni-paderborn.de/kat/forschung/datacenter/bearing-datacenter/<br>
 ours:<br>
 8 bearings are tested (2 healthy, 3 inner race fault and 3 outer race fault)<br>
-bearing code | K001 | K002 | KI01 | KI02 | KI03 | KA01 | KA02 | KA03<br>
-fault place  |  --- |  --- | inner| inner| inner| outer| outer| outer<br>
-methods      |  --- |  --- |EMD|drilling|natural|EMD|drilling|natural<br>
-
-<img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/emd.jpg" width="150" height="150" alt="EMD"/>
+<img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/Table.jpg" alt="Table"/><br>
+<img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/emd.jpg" width="150" alt="EMD"/>
+<img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/drilling.jpg" width="150" alt="drilling"/>
+<img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/natural.jpg" width="150" alt="natural"/><br>
+>         EMD                drilling                natural
 ## Project 1. domain adaption with advers
