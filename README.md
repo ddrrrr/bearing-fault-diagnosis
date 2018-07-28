@@ -13,5 +13,5 @@ ours:<br>
 <img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/emd.jpg" width="150" alt="EMD"/>
 <img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/drilling.jpg" width="150" alt="drilling"/>
 <img src="https://github.com/ddrrrr/bearing-fault-diagnosis/blob/master/pictures/natural.jpg" width="150" alt="natural"/><br>
->         EMD                drilling                natural
+**EMD                drilling                natural**
 ## Project 1. domain adaption with advers
