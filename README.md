@@ -2,7 +2,7 @@
 deep learning methods for bearing fault diagnosis.
 ## Data
 bearing fault datasets are arranged in Dataset Object and packaged in *.pkl files.<br>
-Download in this link:<br>
+Download in this link:https://pan.baidu.com/s/1rw-yfPTspuwcY7W1i5imLQ password：7kxc<br>
 
 Detail description of these datset is below<br>
 CWRU:http://csegroups.case.edu/bearingdatacenter/home<br>
